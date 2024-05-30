@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suprateek005&label=Profile%20views&color=0e75b6&style=flat" alt="suprateek005" /> </p>
 
-- 🔭 B.tech-IT pre Final Year **Panimalar Engineering College**
+- 🔭 B.tech-IT (Final Year Graduater **Panimalar Engineering College**)
 
 - 🌱 I’m currently learning **Python, UI/UX ,Java**
 
