@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Suprateek S</h1>
-<h3 align="center">A passionate Upcoming Software Developer</h3>
+<h3 align="center">Java Developer</h3>
+<h4 align="center">Sql</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suprateek005&label=Profile%20views&color=0e75b6&style=flat" alt="suprateek005" /> </p>
 
-- 🔭 B.tech-IT (Final Year Graduater **Panimalar Engineering College**)
+- 🔭 B.tech-IT (Final Year Graduater **Panimalar Engineering College**|| Passionate Java Developer)
+- 
+- 💬 Ask me about **To be a good  in programming languages, I am constantly striving to expand my knowledge in cybersecurity and cloud computing, as these areas offer numerous career prospects. I am enthusiastic about applying my practical design skills to successfully accomplish any given task. As a team player, I excel in project completion and possess excellent communication skills, along with a keen ability to learn and adapt.**
 
-- 🌱 I’m currently learning **Python, UI/UX ,Java**
-
-- 💬 Ask me about **To be a strong proficiency in programming languages, I am constantly striving to expand my knowledge in cybersecurity and cloud computing, as these areas offer numerous career prospects. I am enthusiastic about applying my practical design skills to successfully accomplish any given task. As a team player, I excel in project completion and possess excellent communication skills, along with a keen ability to learn and adapt.**
-
-- 📫 How to reach me **pecsuprateek@gmail.com**
+- 📫 How to reach me **pecsuprateek@gmail.com**,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
