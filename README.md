@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suprateek S</h1>
 <h3 align="center">Java Developer</h3>
-<h4 align="center">Sql</h4>
+<h4 align="center">Becoming Technology world! >> ahead filled with programming skills</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suprateek005&label=Profile%20views&color=0e75b6&style=flat" alt="suprateek005" /> </p>
 
