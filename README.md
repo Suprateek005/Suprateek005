@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suprateek S</h1>
 <h3 align="center">Java Developer</h3>
-- 🔭 B.tech-IT (Final Year Graduater **Panimalar Engineering College**|| Passionate Java Developer)
+             - 🔭 B.tech-IT (Final Year Graduater **Panimalar Engineering College**|| Passionate Java Developer)
 
 
 - 💬 Ask me about **To be a good  in  JAVA programming, I am constantly striving to expand my knowledge in cybersecurity and cloud computing, as these areas offer numerous career prospects. I am enthusiastic about applying my practical design skills to successfully accomplish any given task. As a team player, I excel in project completion and possess excellent communication skills, along with a keen ability to learn and adapt.**
