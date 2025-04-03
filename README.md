@@ -5,9 +5,9 @@
 
 
 - 🔭 B.tech-IT (Final Year Graduater **Panimalar Engineering College**|| Passionate Java Developer)
-- 💬 Ask me about **To be a good  in programming languages, I am constantly striving to expand my knowledge in cybersecurity and cloud computing, as these areas offer numerous career prospects. I am enthusiastic about applying my practical design skills to successfully accomplish any given task. As a team player, I excel in project completion and possess excellent communication skills, along with a keen ability to learn and adapt.**
+- 💬 Ask me about **To be a good  in  JAVA programming, I am constantly striving to expand my knowledge in cybersecurity and cloud computing, as these areas offer numerous career prospects. I am enthusiastic about applying my practical design skills to successfully accomplish any given task. As a team player, I excel in project completion and possess excellent communication skills, along with a keen ability to learn and adapt.**
 
-- 📫 How to reach me **pecsuprateek@gmail.com**,https://www.linkedin.com/in/suprateek21-jd/
+- 📫 How to reach me **pecsuprateek@gmail.com**,https://www.linkedin.com/in/suprateek21-jd/,https://www.instagram.com/_supra3k__?igsh=bWdvOXZhYW1wZmQ0
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
