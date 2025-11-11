@@ -7,7 +7,7 @@
 
 - 
 - 📫 How to reach me **pecsuprateek@gmail.com**
-- https://www.linkedin.com/in/suprateek21-jd/
+- https://www.linkedin.com/in/suprateekqa/
 - https://www.instagram.com/_supra3k__?igsh=bWdvOXZhYW1wZmQ0
 <h3 align="left">Connect with me:</h3>
 <p align="left">
